@@ -1,0 +1,11 @@
+product_id,product_name,category,unit_price_usd
+PRD001,Steel Rods,Energy,1935.25
+PRD002,Software License,Retail,4758.5
+PRD003,Crude Oil,Energy,3686.77
+PRD004,Electric Vehicles,Retail,3033.43
+PRD005,Pharmaceuticals,Technology,864.49
+PRD006,Cloud Hosting,Manufacturing,864.37
+PRD007,Plastic Components,Manufacturing,384.61
+PRD008,Textile Fabric,Technology,4344.26
+PRD009,Machine Tools,Energy,3045.46
+PRD010,Consumer Electronics,Manufacturing,3569.56

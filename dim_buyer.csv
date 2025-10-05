@@ -1,0 +1,11 @@
+buyer_id,buyer_name,country,city
+BUY001,ICICI Bank,India,London
+BUY002,Apple Inc,UK,Tokyo
+BUY003,HDFC Bank,India,London
+BUY004,Amazon Global,UK,Berlin
+BUY005,Infosys Technologies,India,Bangalore
+BUY006,Unilever PLC,USA,Berlin
+BUY007,HDFC Bank,India,Paris
+BUY008,Siemens AG,USA,Dubai
+BUY009,Bajaj Auto,India,Bangalore
+BUY010,Unilever PLC,USA,Singapore
